@@ -8,6 +8,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/custom-forms": "github:tailwindcss/custom-forms",
+    "tailwindcss-multi-theme": "^1.0.4",
     "vue": "^3.0.11",
     "vue-router": "^4.0.6"
   },
